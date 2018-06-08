@@ -2,10 +2,11 @@
     "name": "basicallymonokaibutcooler",
     "displayName": "BasicallyMonokaiButCooler",
     "description": "It's basically Monokai theme - but slightly cooler.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "acorah",
+    "icon": "icon.png",
     "engines": {
-        "vscode": "^1.24.0"
+        "vscode": "^1.21.0"
     },
     "categories": [
         "Themes"
