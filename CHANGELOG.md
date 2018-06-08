@@ -1,7 +1,10 @@
 # Change Log
 All notable changes to the "basicallymonakaibutcooler" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [0.0.3]
 - Initial release
+
+## [1.0.0]
+- Released to Github
+- Add screenshots to README
+- Started a Changelog!

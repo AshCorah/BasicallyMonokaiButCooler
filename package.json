@@ -2,7 +2,7 @@
     "name": "basicallymonokaibutcooler",
     "displayName": "BasicallyMonokaiButCooler",
     "description": "It's basically Monokai theme - but slightly cooler.",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "publisher": "acorah",
     "engines": {
         "vscode": "^1.24.0"
@@ -18,5 +18,9 @@
                 "path": "./themes/BasicallyMonokaiButCooler-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:AshCorah/BasicallyMonokaiButCooler.git"
     }
 }
