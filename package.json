@@ -1,0 +1,22 @@
+{
+    "name": "basicallymonokaibutcooler",
+    "displayName": "BasicallyMonokaiButCooler",
+    "description": "It's basically Monokai theme - but slightly cooler.",
+    "version": "0.0.3",
+    "publisher": "acorah",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BasicallyMonokaiButCooler",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BasicallyMonokaiButCooler-color-theme.json"
+            }
+        ]
+    }
+}
