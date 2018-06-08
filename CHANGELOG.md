@@ -8,3 +8,7 @@ All notable changes to the "basicallymonakaibutcooler" extension will be documen
 - Released to Github
 - Add screenshots to README
 - Started a Changelog!
+
+## [1.0.2]
+- Add icon
+- Update compatability version
